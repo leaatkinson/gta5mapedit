@@ -1,4 +1,4 @@
-# gta5mapedit
+# Open-Source Grand Theft Auto V Map Editor (OpenGTAVME)
 An 100% Open-Source Grand Theft Auto V Map Editor
 
 OpenGTAVME is totaly free 
